@@ -38,8 +38,8 @@ return(
 	<div className="p-5 mb-4 bg-light rounded-3">
       <div className="container-fluid justify-content-start">
         <h1 className="display-1">A Warm Welcome! </h1>
-        <p className="col">Using a series of utilities, you can create this jumbotron, just like the one in previous versions of Bootstrap. Check out the examples below for how you can remix and restyle it to your liking.</p>
-        <button className="btn btn-primary btn-lg" type="button">Call to action</button>
+        <p className="col">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores quisquam nulla dicta iusto autem ducimus, odio natus possimus ab, eum voluptate quidem, magnam quasi voluptatum? Tenetur quidem obcaecati repellat libero?</p>
+        <button className="btn btn-primary btn-lg" type="button">Call to action!</button>
       </div>
     </div>)
 }
@@ -57,10 +57,10 @@ const Card = () => {
         />
 		<div className="card-body">
 		  <h5 className="card-title">Card title</h5>
-		  <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+		  <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur saepe nemo delectus reprehenderit id quasi laudantium porro blanditiis, deleniti nisi. Ducimus consectetur adipisci quos autem incidunt laudantium dicta consequuntur dolore.</p>
 		</div>
 		<div className="card-footer">
-		<button className="btn btn-primary" type="button">Button</button>
+		<button className="btn btn-primary" type="button">Find Out More!</button>
 		</div>
 	  </div>
 	</div>
@@ -73,10 +73,10 @@ const Card = () => {
         />
 		<div className="card-body">
 		  <h5 className="card-title">Card title</h5>
-		  <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+		  <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quidem rem vero sint asperiores, vitae magnam, reiciendis recusandae esse eius voluptas quam eligendi necessitatibus aspernatur! Eum ducimus quae in facilis.</p>
 		</div>
 		<div className="card-footer">
-		<button className="btn btn-primary" type="button">Button</button>
+		<button className="btn btn-primary" type="button">Find Out More!</button>
 		</div>
 	  </div>
 	</div>
@@ -89,10 +89,10 @@ const Card = () => {
         />
 		<div className="card-body">
 		  <h5 className="card-title">Card title</h5>
-		  <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+		  <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quo unde quaerat corrupti rerum similique aspernatur nemo, saepe, totam odit fugiat quod blanditiis accusantium deleniti ab nisi, beatae dignissimos corporis!</p>
 		</div>
 		<div className="card-footer">
-		<button className="btn btn-primary" type="button">Button</button>
+		<button className="btn btn-primary" type="button">Find Out More!</button>
 		</div>
 	  </div>
 	</div>	<div className="col">
@@ -104,10 +104,10 @@ const Card = () => {
         />
 		<div className="card-body">
 		  <h5 className="card-title">Card title</h5>
-		  <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+		  <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti error facere, fugiat repellat, accusamus, laudantium corrupti inventore sunt sed blanditiis aliquid illo dolores id? Accusantium nobis maiores cum distinctio voluptates?</p>
 		</div>
 		<div className="card-footer">
-		<button className="btn btn-primary" type="button">Button</button>
+		<button className="btn btn-primary" type="button">Find Out More!</button>
 		</div>
 	  </div>
 	</div>
@@ -118,7 +118,7 @@ const Card = () => {
 const Footer =()=>{
 	return(	
 	<div className="navbar navbar-expand-lg navbar-dark bg-dark justify-content-center">
-		<span className="navbar-brand mt-3 fs-6" href="#">Start Bootstrap</span>
+		<span className="navbar-brand mt-3 fs-6" href="#">Copyright © Your Webside 2023</span>
 	</div>
 	)
 }
