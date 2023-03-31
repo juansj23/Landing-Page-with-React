@@ -1,3 +1,5 @@
+import React from "react"
+
 //Este es el jumbotron, es decir , el display de la pagina inicial
 const Jumbotron=()=>{
     return(
@@ -9,3 +11,5 @@ const Jumbotron=()=>{
           </div>
         </div>)
     }
+
+export default Jumbotron;

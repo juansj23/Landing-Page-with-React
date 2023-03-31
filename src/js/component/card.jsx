@@ -1,3 +1,5 @@
+import React from "react"
+
 //Estas son las tarjetas al final de la pagina
 const Card = () => {
 	return(
@@ -68,3 +70,5 @@ const Card = () => {
   </div>
 	)
 }
+
+export default Card;

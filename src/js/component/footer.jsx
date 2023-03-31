@@ -1,3 +1,5 @@
+import React from "react"
+
 //Este es el footer es parecido a la navbar, solo que no contiene ningun enlace pero se puede agregar
 const Footer =()=>{
 	return(	
@@ -6,3 +8,5 @@ const Footer =()=>{
 	</div>
 	)
 }
+
+export default Footer;

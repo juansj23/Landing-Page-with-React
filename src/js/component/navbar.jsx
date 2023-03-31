@@ -1,3 +1,5 @@
+import React from "react"
+
 //Esta es la navbar de la pagina
 const Navbar =() =>{
 	return(
@@ -26,3 +28,4 @@ const Navbar =() =>{
 	</div>
   </nav>)
 }
+export default Navbar;
